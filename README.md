@@ -20,9 +20,13 @@ The AtliQ Business users have been given files to build reports the data contain
 
 # Workflow:
 
- ## 1. ETL (Extract, Transform & Load)
- ## 2. Cleaning in Power Query
- ## 3. Data Modelling
- ## 4. Power Pivot & Pivot Table
- ## 5. DAX (Data Analysis Expressions)
- ## 6. Conditional Formatting
+#### 1. ETL (Extract, Transform & Load) & Power Query:
+Loaded all CSV files to power query and ensured that there were no missing values, removed duplicates, checked data quality and integrity, and verified the unique and distinct values are equal for the primary id column of the dimension table. 
+#### 2. Data Modelling: 
+Connected all the tables in a Star Schema. Created the dim_date table in power query containing Date, Month, Year, Fiscal Year & Fiscal Month then connected dim_date to the model in power pivot.
+#### 3. Power Pivot & Pivot Table:
+Leveraged power pivot to create new measures and columns, ensuring seamless integration between the datasets. Utilized pivot table to create a report, analyzing the customer net sales, marketing performance & target achieved.
+#### 4. DAX (Data Analysis Expressions):
+Created 10+ new measures like net sales for each customer as well as growth for the current year compared to the previous year, COGS, Gross Margin, and GM % by using formulae such as sum, calculate, divide, etc. Created new Columns using Functions like Related, Calculate, Format, and extract quarterly months by adding 4 months to the calendar year for a fiscal year perspective.
+#### 6. Conditional Formatting:
+Applied conditional formatting to enhance the data presentation & readability for effective decision-making.
