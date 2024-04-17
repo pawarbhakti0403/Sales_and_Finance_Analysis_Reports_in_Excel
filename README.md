@@ -1,6 +1,15 @@
-AtliQ Hardware is a leading IT solution services provider in India and the USA. They supply electronic devices such as mouse, printers, etc.
+# Objective:
 
-The project aims to build the Sales and Finance Reports for the AtliQ Hardware Company.
+AtliQ Hardware is a company that sells hardware like PCs, Mouse, Printers, etc. to different customers. They have 2 types of customers, one is Physical stores that are known as Brick & Mortar like Croma and Best Buy and the second is E-commerce like Amazon and Flipkart. 
+
+The AtliQ Business users have been given files to build reports the data contains more than 1.5 million records, and have to build sales and financial reports of the company.
+
+# The Report consists of 
+## Sales Report:
+1. Customer Net Sales Performance
+2. 
+
+## Finance Report:
 
 Tool Used: Excel
 
