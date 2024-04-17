@@ -30,3 +30,8 @@ Leveraged power pivot to create new measures and columns, ensuring seamless inte
 Created 10+ new measures like net sales for each customer as well as growth for the current year compared to the previous year, COGS, Gross Margin, and GM % by using formulae such as sum, calculate, divide, etc. Created new Columns using Functions like Related, Calculate, Format, and extract quarterly months by adding 4 months to the calendar year for a fiscal year perspective.
 #### 6. Conditional Formatting:
 Applied conditional formatting to enhance the data presentation & readability for effective decision-making.
+
+# Insights:
+1. The top 3 customers of AtliQ are Amazon, AtliQ e-store & Atliq exclusive.
+2. In 2021, AtliQ launched 16 new products with the highest sales obtained by AQ Quarty, AQ Trigger, and AQ Gen Y.
+3. A notable amount of 51.6 million in Gross Margin is observed for the India
