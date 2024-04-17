@@ -4,21 +4,25 @@ AtliQ Hardware is a company that sells hardware like PCs, Mouse, Printers, etc. 
 
 The AtliQ Business users have been given files to build reports the data contains more than 1.5 million records, and have to build sales and financial reports of the company.
 
-# The Report consists of 
+# The Reports consists of 
 ## Sales Report:
 1. Customer Net Sales Performance
-2. 
+2. Market performance Vs target
+3. Division report
+4. New products in 2021
+5. Top 5 Countries in 2021
+6. Top & Bottom 5 products
 
 ## Finance Report:
+1. P & L statement by Fiscal year
+2. P & L statement by Market
+3. GM % by Quarters
 
-Tool Used: Excel
+# Workflow:
 
-Workflow:
-
-1. Understanding of the data
-2. ETL process to transform the data in Power Query
-3. Data Modelling in Power Pivot
-4. Creating required datasets in Power Query and loading to the data model
-5. Develop a thought process for the report design
-6. Generating Report using Pivot table
-7. Analyzing the data and finding the insights that will add value to the company's growth. 
+ ## 1. ETL (Extract, Transform & Load)
+ ## 2. Cleaning in Power Query
+ ## 3. Data Modelling
+ ## 4. Power Pivot & Pivot Table
+ ## 5. DAX (Data Analysis Expressions)
+ ## 6. Conditional Formatting
