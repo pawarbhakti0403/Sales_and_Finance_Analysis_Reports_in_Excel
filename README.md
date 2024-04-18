@@ -27,7 +27,7 @@ Connected all the tables in a Star Schema. Created the dim_date table in power q
 #### 3. Power Pivot & Pivot Table:
 Leveraged power pivot to create new measures and columns, ensuring seamless integration between the datasets. Utilized pivot table to create a report, analyzing the customer net sales, marketing performance & target achieved.
 #### 4. DAX (Data Analysis Expressions):
-Created 10+ new measures like net sales for each customer as well as growth for the current year compared to the previous year, COGS, Gross Margin, and GM % by using formulae such as sum, calculate, divide, etc. Created new Columns using Functions like Related, Calculate, Format, and extract quarterly months by adding 4 months to the calendar year for a fiscal year perspective.
+Created 10+ new measures like net sales for each customer as well as growth% for the current year compared to the previous year, COGS, Gross Margin, and GM % by using formulae such as sum, calculate, divide, etc. Created new Columns using Functions like Related, Calculate, Format, and extract quarterly months by adding 4 months to the calendar year for a fiscal year perspective.
 #### 6. Conditional Formatting:
 Applied conditional formatting to enhance the data presentation & readability for effective decision-making.
 
