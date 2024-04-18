@@ -2,7 +2,7 @@
 
 AtliQ Hardware is a company that sells hardware like PCs, Mouse, Printers, etc. to different customers. They have 2 types of customers, one is Physical stores that are known as Brick & Mortar like Croma and Best Buy and the second is E-commerce like Amazon and Flipkart. 
 
-The AtliQ Business users have been given files to build reports the data contains more than 1.5 million records, and have to build sales and financial reports of the company.
+The AtliQ Business users have been given files to build reports the data contains more than 7 Lakhs records, and have to build sales and financial reports of the company.
 
 # The Reports consists of 
 ## Sales Report:
